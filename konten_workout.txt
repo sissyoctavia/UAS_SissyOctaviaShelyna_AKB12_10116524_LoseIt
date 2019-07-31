@@ -1,0 +1,27 @@
+"data" : [
+	{
+		"id" : 1, 
+		"judul" : "Workout", 
+		"gambar" : "work.jpg", 
+		"konten" : "1. Jalan santai
+			       Jalan santai dapat membakar 255 kalori setiap 2 mil per jam.
+			    2. Bersepeda santai
+ 			       Ternyata bersepeda santai dengan kecepatan di bawah 10 mil per jam, mampu membakar sekitar 364 kalori per jam untuk orang dengan berat badan sekitar 90 kg.
+			    3. Golf
+			       Membawa tas golf sembari mengitari area dan bermain golf selama satu jam, membakar 391 kalori. Wah, gak perlu lain minta bantuan caddy ya!
+			    4. Low-impact aerobic
+			       Sebanyak 455 kalori bisa kamu bakar jika rutin melakukan low-impact aerobic selama satu jam. Setara dengan angkat besi, softball dan baseball, lho.
+			    5. Treadmill
+			    6. Water aerobics
+			       Mungkin terdengar asing di telinga. Tapi aerobik yang dilakukan di dalam air ini efektif memangkas 501 kalori dalam tubuh jika dilakukan sejam penuh.
+			    7. Hiking
+			       Buat kamu yang senang melakukan kegiatan alam, kabar baik! Hiking terbukti membakar 546 kalori dalam perjalanan selama sejam.
+			    8. High-impact aerobic
+			       Gerakan-gerakan melompat dalam high-impact aerobic bisa membakar 664 kalori per jam. Gak ragu lagi 'kan buat melompat?
+			    9. Lari
+			       Paling mudah, murah dan gak perlu banyak alat adalah lari. Berlari dengan kecepatan 8 mil per jam selama satu jam penuh, mampu memangkas 1.074 kalori lho. Kalau diniatin dengan rutin, efektif banget menurunkan berat badan.
+
+					", 
+	}
+	
+]

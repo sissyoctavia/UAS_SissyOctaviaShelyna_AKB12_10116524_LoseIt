@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/music_nav"
+        android:icon="@drawable/wr"
+        android:title="@string/nav_work" />
+    
+    <item
+        android:id="@+id/gallery_nav"
+        android:icon="@drawable/dt"
+        android:title="@string/nav_diet" />
+
+    <item
+        android:id="@+id/daily_nav"
+        android:icon="@drawable/tp"
+        android:title="@string/nav_tips" />
+
+</menu>

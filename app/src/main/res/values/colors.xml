@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC0C0C0</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#FFFFFFCC</color>
+    <color name="colorFree">#FFFF8080</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorPrima">#58b19f</color>
+
+
+    <!-- button -->
+    <color name="btn_text">#FFFF8080</color>
+    <color name="checked">#c0c0c0</color>
+    <color name="bottom_view_color">#FFFF8080</color>
+    <color name="bottom_view_color_dark">#000000</color>
+
+    <color name="back_gallery">#2d2d2d</color>
+</resources>

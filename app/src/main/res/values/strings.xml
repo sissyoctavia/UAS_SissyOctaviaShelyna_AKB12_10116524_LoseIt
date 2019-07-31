@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LoseIt</string>
+    <string name="desc1">There is only one happiness in life : to love and be loved.</string>
+    <string name="tittle1">Holla</string>
+    <string name="tittle2">diet</string>
+    <string name="tittle3">Tips</string>
+    <string name="desc2">Yuk!! Kenali Kulit Wajah kamu.</string>
+    <string name="desc3">Apa saja yang cocok untuk kondisi kulit kalian?</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tips">Tips</string>
+    <string name="nav_diet">my Diet</string>
+    <string name="nav_work">Workout</string>
+    <string name="nav_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_frag">HOME SWEET HOME</string>
+    <string name="Tips">Tips</string>
+    <string name="diet">My Diet</string>
+    <string name="work">Workout</string>
+    <string name="Profil">THE PROFILE</string>
+    <string name="name_home">Albert Afriadi Sigiro</string>
+    <string name="interest_home">INTEREST</string>
+    <string name="live_home">Bandung,Indonesia</string>
+    <string name="birthday_home">17-April-1998</string>
+    <string name="status_home">Mahasiswa</string>
+    <string name="about_home">Seorang laki-laki yang selalu tersenyum lebar di segala keadaan apapun.</string>
+    <string name="year">YEAR</string>
+    <string name="year_home">1998</string>
+    <string name="month">MONTH</string>
+    <string name="month_home">APRIL</string>
+    <string name="day">DAY</string>
+    <string name="day_home">17</string>
+    <string name="interest_fut">FUTSAL</string>
+    <string name="interest_game">GAMES</string>
+    <string name="interest_music">MUSIC</string>
+    <string name="name_gly1">Senja</string>
+
+
+</resources>

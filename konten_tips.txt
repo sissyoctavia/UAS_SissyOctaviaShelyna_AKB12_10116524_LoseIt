@@ -1,0 +1,59 @@
+"data" : [
+	{
+		"id" : 1, 
+		"judul" : "Pola Makan", 
+		"gambar" : "pola.png",
+		"konten" : "Cara Mengatur Pola Makan yang Tepat Untuk Menurunkan Berat Badan
+ 				Ada banyak cara untuk menurunkan berat badan, namun efek samping yang harus dialami Ibu adalah rasa lapar berkepanjangan hingga nafsu makan yang tak terkontrol setiap saat. Adakah cara yang efektif agar menurunkan berat badan tidak membuat tubuh ‘meminta makan’ lebih banyak? Kris Gunnars, BSc dari Authority Nutrition pun memaparkan pola makan yang sehat untuk menunjang program penurunan berat badan Ibu.
+ 
+				1. Sarapan Tinggi Protein
+				   Mulailah hari dengan sarapan berkualitas. Agar rasa kenyang bertahan lebih lama, Ibu bisa tambahkan asupan protein ke dalam  menu sarapan sereal. Menurut studi dari International Journal of Obesity yang mempelajari pola makan 30 wanita berusia 25 hingga 60 tahun, menemukan bahwa wanita yang makanan tinggi protein seperti putih telur mampu menahan rasa lapar, sehingga berat badan turun sebanyak 65%.
+				 
+				2. Minum Air Lebih Banyak
+				   Minumlah air mineral tanpa campuran pemanis atau bahan lainnya. Ibu bisa membiasakan minum segelas air, setengah jam sebelum makan. Begitu pula jika rasa lapar datang, minumlah dahulu segelas air putih. Tidak semua sinyal lapar menandakan tubuh memerlukan makanan, ternyata ada kondisi tertentu yang menjadi sinyal palsu sehingga menimbulkan rasa lapar. Terkadang rasa lapar yang timbul ternyata merupakan rasa haus yang dirasakan tubuh. Oleh karena itu, cobalah minum beberapa air putih terlebih dahulu dan tunggu hasilnya. Kebiasaan minum air putih juga bisa membantu menurunkan berat badan dan menurunkan asupan kalori hingga 44%.
+ 
+				3. Lengkapi dengan Serat
+				   Serat dalam makanan berfungsi mengikat air dalam jumlah banyak, sehingga memungkinkan sisa makanan dapat lebih mudah dicerna dan cepat keluar," ujar ahli gizi Tuti Soenardi. Jadi dengan banyak mengonsumsi serat, pencernaan akan lebih lancar dan juga dapat memaksimalkan pembuangan zat yang tidak dibutuhkan tubuh. Ibu berusia 50 tahun ke bawah sebaiknya mengonsumsi 25 gram serat per hari sedangkan pria 38 gram. Dengan meningkatkan asupan serat, ibu juga bisa mengurangi risiko gangguan jantung maupun diabetes tipe 2.
+ 
+				4. Camilan Sayur & Buah
+				   Banyak ahli nutrisi memaparkan salah satu kegagalan saat menurunkan diet adalah mengonsumsi camilan yang tidak sehat, sehingga membuat tubuh mengubah kalori dalam camilan menjadi lemak. Meskipun buah dan sayur juga memiliki kalori, namun kandungan serat dan air yang tinggi dalam buah dan sayur, lebih baik untuk melancarkan pencernaan serta mampu menahan rasa lapar. Perlu diingat sayur sebaiknya dimasak dengan diolah tanpa memasukkan kalori tambahan, cukup dikukus atau direbus. Begitu juga dengan buah, jangan ditambahkan sirup atau pemanis buatan lainnya ya bu.
+ 
+				5. Porsi Kecil Tapi Sering
+				   Saat ibu kelaparan, tentu porsi menu utama menjadi lebih banyak dan terkadang bisa kalap saat mengonsumsinya. Yuk, bu dicoba mengubah sedikit kebiasaan saat makan tersebut, yakni dengan membagi porsi besar sekali makan menjadi beberapa porsi kecil untuk beberapa kali makan. Hal ini baik untuk menjaga metabolisme tubuh tetap aktif dan mencegah keinginan untuk ngemil dating menjadi lebih jarang.
+{
+		"id" : 2, 
+		"judul" : "Hindari Stres", 
+		"gambar" : "stres.jpg",
+		"konten" : "Macet di jalan, deadline tugas atau kerjaan yang mencekik, keuangan yang tersendat, hubungan asmara yang sedang renggang, dan berbagai perahara hidup lainnya tentu akan membuat Anda stres. Saat Anda merasa stres, semua sistem dalam tubuh Anda akan meresponnya dengan cara yang berbeda-beda. Stres yang bersifat kronis dapat berdampak pada kesehatan Anda secara keseluruhan. Nah, oleh sebab itu, berusahalah sebisa mungkin untuk mengurangi atau bahkan menghindari segala hal yang bisa membuat Anda stres.
+				Berhenti sebentar dari aktivitas yang sedang Anda kerjakan adalah hal lumrah. Ketika Anda sedang merasa tertekan, cobalah untuk menepi sebentar di tempat yang sepi. Tenangkan diri Anda sambil mengambil napas dalam-dalam dan embuskan secara perlahan.
+				Lakukan hal tersebut berulang kali sampai Anda merasa lebih rileks. Mengambil napas dalam-dalam sendiri telah terbukti menurunkan kadar kortisol, yang dapat membantu mengurangi stres dan kecemasan.
+				Anda juga bisa melakukan berbagai aktivitas lainnya yang Anda senangi. Misalnya, membaca, menulis jurnal, atau pun bermain dengan hewan peliharaan. Intinya, buatlah diri Anda merasa nyaman dengan cara yang Anda senangi.
+
+", 
+			
+			
+			
+	},
+	{
+		"id" : 3, 
+		"judul" : "Bijak Memilih Makanan",
+		"gambar" : "bijak.jpg",  
+		"konten" : "Apa yang Anda makan tentu akan memengaruhi bagaimana tubuh Anda bekerja. Oleh sebabnya, penting bagi Anda untuk memerhatikan setiap makanan yang Anda konsumsi setiap hari.
+				Pastikan kalau makanan dalam piring Anda memenuhi prinsip gizi seimbang, yang mencangkup karbohidrat, serat, protein, dan lemak baik. Jangan hanya bergantung dengan satu jenis makanan pokok saja. Anda bisa mengganti makanan pokok dengan jagung, mi, ubi, atau kentang. Jadi, tak harus nasi terus.
+				Perhatikan pula porsi makan Anda. Memerhatikan porsi makan sangatlah penting untuk mencegah Anda mengalami kegemukan dan terserang berbagai penyakit kronis. Ingat, apapun yang berlebihan tentu tidak baik untuk tubuh.
+				Selain memilah makanan yang akan dikonsumsi, Anda juga harus bijak dalam mengolahnya. Hindari mengolah makanan dengan cara digoreng. Anda bisa mengolah makanan dengan cara yang lebih sehat, seperti direbus, dikukus, atau ditumis.
+", 
+	},
+	{
+		"id" : 4, 
+		"judul" : "Sempatkan olahraga setiap hari",
+		"gambar" : "olahraga.jpg", 
+		"konten" : "Olahraga tak melulu harus jogging atau pergi ke gym. Anda bebas melakukan berbagai jenis olahraga yang memang Anda sukai. Jika Anda suka bersepeda atau berenang, maka jangan ragu untuk melakukannya. Begitu pula jika hanya menyukai jalan santai. Kuncinya satu, buatlah tubuh Anda aktif bergerak setiap hari.
+				Dengan aktif bergerak, tubuh Anda akan berusaha untuk membakar kalori yang mengendap di tubuh. Lebih dari itu, hal ini juga dapat membantu mengalirkan lebih banyak oksigen ke dalam sel-sel tubuh dan menjaganya tetap sehat. Tak heran jika setelah olahraga atau melakukan aktivitas fisik Anda jadi merasa lebih bugar.
+				Nah, bagi Anda pekerja kantoran yang mungkin tidak memiliki banyak waktu untuk berolahraga, Anda bisa melakukan berbagai aktivitas fisik sederhana guna memastikan tubuh Anda tetap bergerak.
+				Saat menuju ruangan kantor, cobalah untuk memilih naik tangga ketimbang naik lift atau eskalator. Anda juga bisa meluangkan waktu untuk berjalan-jalan atau sekadar naik turun tangga sebelum dan sesudah makan siang.
+				Terkadang dengan perubahan kecil dalam rutinitas sehari-hari bisa membantu Anda menjadi lebih aktif berolahraga.
+
+					", 
+	}
+]
